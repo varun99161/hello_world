@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<cono.h>
 void main()
 {
-  printf("\n Hello World\n");
+  printf("Hello World");
 }
